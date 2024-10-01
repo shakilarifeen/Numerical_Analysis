@@ -1,2 +1,1 @@
-# Matlab-Project
-Task 1
+Numerical Analysis methods coded into MatLab for prediction
